@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Spot Alert Description
 
-You can use the [editor on GitHub](https://github.com/spotalert/description/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+SMS Message:
+Spot Alert reminder’s based on time and location, share reminder’s and chat with your contacts in your address book.
+iOS Link
+Android Link
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For ITunes and Play Store:
+Description:
+Spot Alert, create reminders based on time and location, and not only that, share these reminders with other’s and chat with them.
+Many times, we need to do tasks or get them done on a certain time or location (address).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(We’re all juggling a lot these days—and it’s inevitable that we drop the ball on a detail or two from time to time. Sometimes, we just need a reminder, but even making a to-do list isn’t always enough. When you’re on the go, you may not even remember to check your list.
+Your smartphone can become your own personal secret weapon—with location-based reminders.)
 
-```markdown
-Syntax highlighted code block
+Some typical cases of using this app are:
+Pick up blue cheese when I am in Berkley.
+Planning a party, create alerts and share with contacts to pick up stuff whoever reaches first at the said location and simultaneously get updates.
+Create alerts for others so they do not forget to do stuff.
+Russell – Let me create an alert for Jeremie @ 2pm to send out the holiday mail.
+Diana – Let me create an alert for Scott, so he gets a reminder to pick my glasses when he is near the market.  
 
-# Header 1
-## Header 2
-### Header 3
+Features: 
+Create reminders based on time and location.
+Share reminders with your contacts.
+Chat with your contacts in your address book.
+Cloud sync
 
-- Bulleted
-- List
+So what are you waiting for? Get Spot Alert today!
 
-1. Numbered
-2. List
+Disclaimer Notes:
+This application (Spot Alert) has been tested for different cases and has given the correct desired results. However, all the functionalities and benefits of this application are provided “as is” and without warranties of any kind either expressed or implied. To the fullest extent Spot Alert disclaims all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose. Ideal Technologies does not warrant that the functions contained in this system will be uninterrupted or error free. Spot Alert does not make any representations or warranties regarding the use or the results of the use of this application in terms of its correctness, accuracy, reliability, or otherwise.
 
-**Bold** and _Italic_ and `Code` text
+If you have any questions about this application, want to report an error or have suggestions for further improvements please contact us on support@spotalert.in.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spotalert/description/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Note: Continued use of GPS running in the background can decrease battery life. Having said that, we have made every effort to keep the GPS usage to the bare necessity, and we feel the resulting drain is minimal. If you believe this to be untrue, let us know on support@ spotalert.in.
